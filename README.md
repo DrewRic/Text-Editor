@@ -41,4 +41,4 @@ The link to the deployed render site is:
 https://pwa-text-editor-utie.onrender.com
 
 The link to the GitHut repository is:
-https://github.com/DrewRic/PWA-Text-Editor.git
+https://github.com/DrewRic/Text-Editor.git
